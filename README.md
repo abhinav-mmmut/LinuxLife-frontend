@@ -1,27 +1,5 @@
-# NgSpringBlogFrontend
+This is an angular based frontend to a fullstack project that I call LinuxLife. This is for all the linux lovers who enjoy everything about linux, be it the freedom to do anything ans everything with only a few keyboard commands or the ability to customize each and every element to your liking.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
+The backend of this project is here: https://github.com/abhinav-mmmut/LinuxLife-backend
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+The frontend boasts of a modular environment with JWT for authentication and authorization. There is form login to allow the users to register, login and interact with the app. There are a few public pages while others are secure and will only be accesible upon authentication. The styling has been done using bootstrap and I have tried to keep it minimalist as that is how I like things to be!
